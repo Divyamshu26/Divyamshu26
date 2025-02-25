@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi there 👋, I'm Giyyar DIvyamshu Raghavendra
+
+____________________________________________________________________________________________________________________________________________________
+Passionate Java Developer | Tech Enthusiast
+
+
+
 
 <!--
 **Divyamshu26/Divyamshu26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
