@@ -3,6 +3,10 @@ Hi there 👋, I'm Giyyar DIvyamshu Raghavendra
 ____________________________________________________________________________________________________________________________________________________
 Passionate Java Developer | Tech Enthusiast
 
+a passionate Computer Science Engineer with a strong foundation in software development and a deep enthusiasm for artificial intelligence.
+I specialize in Java—my core language—along with proficiency in C/C++ and Python, enabling me to build efficient and scalable solutions.
+As an AI enthusiast, I thrive on exploring innovative technologies and applying my programming skills to solve complex problems.
+I am committed to delivering high-quality results and continuously advancing my expertise in dynamic, tech-driven environments.
 
 
 
