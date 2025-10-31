@@ -1,4 +1,4 @@
-Hi there 👋, I'm Giyyar DIvyamshu Raghavendra
+Hi there 👋, I'm Giyyar Divyamshu Raghavendra
 
 ____________________________________________________________________________________________________________________________________________________
 Passionate Java Developer | Tech Enthusiast
