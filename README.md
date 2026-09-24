@@ -1,26 +1,13 @@
-Hi there 👋, I'm Giyyar Divyamshu Raghavendra
+# 👋 Hi, I'm Giyyar Divyamshu Raghavendra
 
-____________________________________________________________________________________________________________________________________________________
-Passionate Java Developer | Tech Enthusiast
+### AI/ML Engineer | Java Developer | Full Stack Developer
 
-a passionate Computer Science Engineer with a strong foundation in software development and a deep enthusiasm for artificial intelligence.
-I specialize in Java—my core language—along with proficiency in C/C++ and Python, enabling me to build efficient and scalable solutions.
-As an AI enthusiast, I thrive on exploring innovative technologies and applying my programming skills to solve complex problems.
-I am committed to delivering high-quality results and continuously advancing my expertise in dynamic, tech-driven environments.
+I'm a Computer Science Engineering student passionate about **Artificial Intelligence, Machine Learning, Generative AI, and Software Development**.
 
+I enjoy building practical applications that combine **AI with modern software technologies**, from intelligent assistants and ML solutions to full-stack platforms.
 
+---
 
-<!--
-**Divyamshu26/Divyamshu26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Languages and Tools
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,react,nodejs,express,flask,fastapi,mongodb,mysql,firebase,docker,git,github,aws,gcp,tensorflow,pytorch)](https://skillicons.dev)
