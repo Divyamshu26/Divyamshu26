@@ -2,7 +2,7 @@
 
 ### AI/ML Engineer | Python Developer | Full Stack Developer
 
-##🎯 **About Me**
+## 👨‍💻 About Me
 
 I'm a Computer Science Engineering student passionate about **Artificial Intelligence, Machine Learning, Generative AI, and Software Development**.
 
