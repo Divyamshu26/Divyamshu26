@@ -12,6 +12,7 @@ I enjoy building practical applications that combine **AI with modern software t
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,fastapi,mongodb,mysql,git,github,postman,sklearn&perline=16)](https://skillicons.dev)
 
-🏅 Certifications
-Java Masterclass(Udemy, 2025)
-Generative AI Certificate (GeeksforGeeks)
+## 🏅 Certifications
+
+* **Java Masterclass** (Udemy, 2025)
+* **Generative AI Certificate** – GeeksforGeeks
