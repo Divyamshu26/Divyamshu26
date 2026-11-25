@@ -10,4 +10,4 @@ I enjoy building practical applications that combine **AI with modern software t
 
 ## 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,fastapi,mongodb,mysql,git,github,bootstrap,kubernetes,postman,sklearn&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,fastapi,mongodb,mysql,git,github,postman,sklearn&perline=16)](https://skillicons.dev)
