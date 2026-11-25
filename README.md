@@ -18,3 +18,11 @@ I enjoy building practical applications that combine **AI with modern software t
 
 * **Java Masterclass** (Udemy, 2025)
 * **Generative AI Certificate** – GeeksforGeeks
+
+## 💬 Get In Touch
+
+* 📧 [divyamshu.raghavendra@gmail.com](mailto:divyamshu.raghavendra@gmail.com)
+* 🌐 [Portfolio](https://giyyar-divyamshu.vercel.app)
+* 💼 [LinkedIn](https://www.linkedin.com/in/divyamshu-raghavendra-giyyar/)
+
+Hyderabad, India | Open to collaborations & roles
